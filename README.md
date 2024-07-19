@@ -93,4 +93,9 @@ If everything completed, then open the current backlogs issues and mark it as do
 
 <img width="830" alt="image" src="https://github.com/user-attachments/assets/e1f7aa4b-4f20-4370-8ea2-73cde3e5d1db">
 
-save and close
+save and close.
+
+All the child items or sub tasks are completed to the current backlog Issues.
+
+<img width="847" alt="image" src="https://github.com/user-attachments/assets/6dd9aee5-d3ca-4da8-8a9c-69d18ad12a15">
+
