@@ -51,6 +51,46 @@ Go back to Work items and check the Epic - You can see multiple Issues are tied 
 
 <img width="778" alt="image" src="https://github.com/user-attachments/assets/9a588ac2-6837-4745-8bdc-6f684bcca75b">
 
+**What is Backlogs?**
 
+The Product owner or Scrum master or Manager - If they want to know what are all items pending in backlogs which are yet to developed then they can select the Backlogs in Azure DevOps.
 
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/630bad40-5304-472c-bd86-47126a8dcb0b">
 
+**What is Sprints?**
+
+To plan the work for the upcoming events - To slect the backlog items and define the goals, estimate the work - Finally teams agreed to finish the backlogs within the planned time.
+
+You can create a Sprints and select the duration date to complethe backlogs which are not yet to completed. You can add multiple Sprints and add each backlog to the each Sprint.
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/a5e85323-df6c-4210-9e2e-3d6f74e75a6a">
+
+In the backlogs - You can create a Sprints and drag and drop the backlogs to the Sprints.
+
+What is Taskboard?
+
+You can see the Taskboard option in Sprints.
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/20a62af0-b921-415c-b809-f2afaa39abce">
+
+Taskboard - What are the things need to do by developers and testing team.
+
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/429b8522-1b98-459f-a65b-65df704cfee9">
+
+You can add more items and assign each item to required team to complete.
+
+![image](https://github.com/user-attachments/assets/6eb1f868-4500-4159-aebf-3a1cb00d8032)
+
+Now the two task is done and testing is progress. Once test is completed, then you can show the demo to the Product Owner.
+
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/46e80e22-b084-4690-a475-5f5281137e8a">
+
+<img width="757" alt="image" src="https://github.com/user-attachments/assets/be2de9c2-b493-4602-a728-d1da5c7ae956">
+
+If everything completed, then open the current backlogs issues and mark it as done.
+
+![image](https://github.com/user-attachments/assets/e1fed87c-f0e4-4bbb-88e1-bf6e08e3c0b8)
+
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/e1f7aa4b-4f20-4370-8ea2-73cde3e5d1db">
+
+save and close
