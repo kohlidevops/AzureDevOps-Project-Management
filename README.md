@@ -1,4 +1,4 @@
-# AzureDevOps Agile Project Management
+# Azure DevOps Agile Project Management
 
 **What is EPIC?**
 
